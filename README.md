@@ -10,4 +10,6 @@ Pour utiliser ce programme, veuillez suivre les étapes suivantes :
 - Ouvrez un terminal et naviguez jusqu'au répertoire du projet.
 - Assurez-vous d'avoir installé Rust sur votre ordinateur.
 - Compilez et exécutez le programme en utilisant la commande cargo run.
-- Suivez les instructions qui vous sont données pour entrer la température à convertir et choisir l'unité de mesure souhaitée.
+- Suivez les instructions qui vous sont données pour entrer la température à convertir.
+
+PS : ce README a été généré grâce à ChatGPT 
